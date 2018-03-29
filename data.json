@@ -1,0 +1,51 @@
+{
+"basics":{
+"photo":"2.jpg",
+"name":"TeluguChandrakala",
+"Email":"teluguchandrakala9@gmail.com",
+"phone":"123456789"
+},
+"education":[
+  {
+"course":"B.tech(computer science and engineering)",
+"college":[
+  "Ravindra college of engineering for women",
+  "2015-2019",
+  "70"
+]
+  },
+
+{
+
+"course":"Intermediate(MPC)",
+"college":[
+  "Sri Masters junior college",
+  "2013-2015",
+  "84"
+]
+},
+{
+
+"course":"SSC",
+"college":[
+"Ravindra college of engineering for women",
+"2015-2019",
+"70"
+]
+}
+],
+"skills":[
+{
+  "name":"operating systems",
+  "value":"windows,Linux"
+},
+{
+"name":"programming languages",
+"value":"c,C++,java"
+},
+{
+  "name":"Web development",
+  "value":"HTML,Python"
+}
+]
+}
